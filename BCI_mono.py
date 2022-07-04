@@ -1,4 +1,6 @@
 from sqlite3 import Timestamp
+#pip install os-sys
+#pip install --upgrade os_sys 
 import sys; 
 #pip install pyserial
 import serial
